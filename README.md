@@ -51,7 +51,7 @@ Curtis, J. T.; McIntoshi, R. P. An Upland Forest Continuum in the Prairie-Forest
 Instituto Ambiental do Paraná. Parâmetros Fitossociológicos. Disponível em: <http://www.iap.pr.gov.br/arquivos/File/Plano_de_Manejo/PE_Rio_Guarani/Anexos/anexo_2.pdf>. Acesso em: 02 abr. 2015.
 
 ## Examples: ##
-Faça download do arquivo exemplo.csv.
+Faça download do arquivo [exemplo.csv](https://github.com/silvaniacorreia/funcao-importancia-ecologica/blob/main/exemplo.csv).
 
 tabela = read.table("exemplo.csv", header=TRUE, sep=";")
 
