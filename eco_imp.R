@@ -1,6 +1,3 @@
-setwd("D:/Documentos/Mestrado/R/trabalho final")
-tabela = read.table("exemplo.csv", header=TRUE, sep=";")
-
 ###### Funcao importancia ecologica ######
 
 eco.imp = function(x, index = "both", diagram=TRUE, dim.diagram = c(2,2), save.diagram = FALSE, dim.jpeg = c(1000, 1000), res.jpeg = 72) #criacao da funcao e seus argumentos
@@ -66,9 +63,9 @@ eco.imp = function(x, index = "both", diagram=TRUE, dim.diagram = c(2,2), save.d
 		tabela.parcel = n.parcel[n.parcel[,1] == uni[i],] #cria objeto contendo parcelas, especies e dbh de determinado local estudado
 		tabela2 = table(tabela.parcel[,3], tabela.parcel[,2]) #cria objeto contendo as parcelas de determinado local em que cada especie foi amostrada
 		multip = dim(tabela2)[1]*dim(tabela2)[2] #cria objeto contendo o numero de itens presentes na tabela2
-		for(j in 1:multip) #abre ciclo para inserir "1" em cada parcela onde cada espÈcie est· presente
+		for(j in 1:multip) #abre ciclo para inserir "1" em cada parcela onde cada esp√©cie est√° presente
 			{
-			if(tabela2[j] != 0) #verifica se h· espÈcie presente na parcela
+			if(tabela2[j] != 0) #verifica se h√° esp√©cie presente na parcela
 				{
 				tabela2[j] = 1 #insere "1" caso haja especie presente na parcela
 				}
@@ -87,7 +84,7 @@ eco.imp = function(x, index = "both", diagram=TRUE, dim.diagram = c(2,2), save.d
 		tabela.area1 = tabela.area[tabela.area$Group.1 == uni[i],] #cria objeto contendo a area basal das especies de determinado local estudado
 		tabela.area1$x = (tabela.area1$x/sum(tabela.area1$x))*100 #cria coluna contendo a DoR das especies de determinado local estudado
 		dor = c(dor, tabela.area1) #cria objeto contendo a DoR calculada em todos os locais
-		novo = rep(NA,length(unique(x[,3]))) #cria objeto que contera a DoR das especies que estao presentes em determinado local e o valor "0" para as que n„o est„o presentes (para possibilitar a montagem da matriz final)
+		novo = rep(NA,length(unique(x[,3]))) #cria objeto que contera a DoR das especies que estao presentes em determinado local e o valor "0" para as que n√£o est√£o presentes (para possibilitar a montagem da matriz final)
 		n = 1 #cria contador
 		faltantes = length(unique(x[,3]))-length(dor[i*3-1]$Group.2) #calcula o numero de especies faltantes em cada local (considerando o numero total de especies em todos os locais)
 		dor[i*3-1]$Group.2 = as.vector(dor[i*3-1]$Group.2) #converte o fator contendo as especies de cada local em um vetor
