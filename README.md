@@ -54,5 +54,7 @@ Instituto Ambiental do Paraná. Parâmetros Fitossociológicos. Disponível em: 
 Faça download do arquivo exemplo.csv.
 
 tabela = read.table("exemplo.csv", header=TRUE, sep=";")
+
 eco.imp(tabela, "both", TRUE, c(2,3), TRUE) #Gera matrizes contendo os índices solicitados e salva os diagramas de frequência absoluta solicitados.
+
 eco.imp(tabela, "both", TRUE, c(2,3), FALSE) #Gera matrizes contendo os índices solicitados e exibe na tela os diagramas de frequência absoluta solicitados.
