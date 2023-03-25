@@ -1,0 +1,200 @@
+local;parcela;espécie;dap
+2;a;Luehea divaricata;22.28169203
+1;b;Anadenanthera peregrina;21.00845249
+3;c;Rapanea ferruginea ;13.05070533
+5;d;Rapanea ferruginea ;17.50704374
+6;e;Mimosa bimucronata;10.82253613
+4;f;Luehea divaricata;20.6901426
+2;a;Trema micrantha;6.366197724
+1;d;Mimosa bimucronata;28.32957987
+3;f;Eugenia involucrata;14.32394488
+5;b;Rapanea ferruginea ;26.10141067
+6;e;Rapanea ferruginea ;7.321127382
+4;c;Mimosa bimucronata;9.549296586
+3;b;Mimosa bimucronata;7.957747155
+5;f;Eugenia involucrata;10.82253613
+6;d;Rapanea ferruginea ;17.82535363
+4;e;Luehea divaricata;7.321127382
+2;c;Anadenanthera peregrina;7.957747155
+1;a;Eugenia involucrata;28.64788976
+4;a;Rapanea ferruginea ;27.37465021
+2;d;Mimosa bimucronata;9.867606472
+6;b;Mimosa bimucronata;29.60281942
+3;c;Anadenanthera peregrina;35.01408748
+1;f;Eugenia involucrata;9.549296586
+5;e;Rapanea ferruginea ;10.82253613
+6;b;Luehea divaricata;7.321127382
+4;a;Anadenanthera peregrina;6.68450761
+2;e;Eugenia involucrata;14.64225476
+1;d;Rapanea ferruginea ;7.321127382
+3;a;Rapanea ferruginea ;24.82817112
+5;c;Mimosa bimucronata;14.32394488
+5;b;Anadenanthera peregrina;7.321127382
+6;f;Luehea divaricata;21.32676237
+4;e;Anadenanthera peregrina;28.32957987
+2;d;Eugenia involucrata;15.91549431
+1;f;Rapanea ferruginea ;13.68732511
+3;d;Luehea divaricata;13.68732511
+6;b;Anadenanthera peregrina;9.230986699
+2;c;Eugenia involucrata;22.91831181
+4;f;Rapanea ferruginea ;28.96619964
+1;e;Mimosa bimucronata;25.46479089
+5;b;Anadenanthera peregrina;24.82817112
+4;c;Luehea divaricata;5.729577951
+3;a;Eugenia involucrata;25.14648101
+5;e;Rapanea ferruginea ;13.68732511
+6;d;Luehea divaricata;7.321127382
+4;a;Anadenanthera peregrina;5.411268065
+2;a;Eugenia involucrata;17.18873385
+6;f;Rapanea ferruginea ;10.82253613
+4;b;Anadenanthera peregrina;30.87605896
+5;c;Rapanea ferruginea ;31.83098862
+1;d;Rapanea ferruginea ;13.68732511
+4;a;Mimosa bimucronata;24.82817112
+3;e;Anadenanthera peregrina;14.32394488
+2;f;Luehea divaricata;6.366197724
+5;c;Eugenia involucrata;7.321127382
+4;b;Rapanea ferruginea ;14.32394488
+3;a;Luehea divaricata;24.19155135
+1;b;Anadenanthera peregrina;14.00563499
+2;c;Eugenia involucrata;10.18591636
+6;a;Rapanea ferruginea ;28.96619964
+1;f;Luehea divaricata;10.82253613
+5;d;Rapanea ferruginea ;21.64507226
+4;e;Luehea divaricata;7.321127382
+1;f;Anadenanthera peregrina;14.96056465
+6;a;Eugenia involucrata;14.32394488
+3;e;Rapanea ferruginea ;5.729577951
+5;c;Rapanea ferruginea ;24.82817112
+4;d;Mimosa bimucronata;10.18591636
+3;b;Luehea divaricata;5.092958179
+1;c;Trema micrantha;30.23943919
+2;d;Mimosa bimucronata;10.82253613
+6;f;Eugenia involucrata;27.6929601
+1;d;Rapanea ferruginea ;35.01408748
+5;f;Rapanea ferruginea ;24.82817112
+6;e;Mimosa bimucronata;13.68732511
+4;a;Mimosa bimucronata;21.32676237
+2;b;Mimosa bimucronata;6.366197724
+6;c;Anadenanthera peregrina;9.549296586
+4;c;Eugenia involucrata;28.96619964
+5;c;Rapanea ferruginea ;7.321127382
+1;d;Luehea divaricata;21.32676237
+4;b;Anadenanthera peregrina;7.002817496
+3;c;Eugenia involucrata;10.82253613
+2;d;Rapanea ferruginea ;21.32676237
+5;f;Rapanea ferruginea ;17.50704374
+1;e;Mimosa bimucronata;10.82253613
+3;d;Anadenanthera peregrina;20.6901426
+3;a;Luehea divaricata;6.366197724
+2;c;Anadenanthera peregrina;24.82817112
+5;b;Eugenia involucrata;13.68732511
+4;e;Rapanea ferruginea ;21.32676237
+1;a;Luehea divaricata;14.00563499
+6;b;Anadenanthera peregrina;10.18591636
+3;c;Luehea divaricata;28.96619964
+4;c;Anadenanthera peregrina;29.60281942
+5;e;Rapanea ferruginea ;35.01408748
+1;f;Rapanea ferruginea ;9.549296586
+6;a;Rapanea ferruginea ;10.82253613
+4;e;Mimosa bimucronata;7.321127382
+5;c;Luehea divaricata;6.68450761
+1;b;Trema micrantha;14.64225476
+3;d;Mimosa bimucronata;7.321127382
+6;e;Eugenia involucrata;24.82817112
+6;e;Rapanea ferruginea ;14.32394488
+1;f;Rapanea ferruginea ;7.321127382
+6;d;Mimosa bimucronata;35.01408748
+2;d;Mimosa bimucronata;9.549296586
+4;b;Eugenia involucrata;10.82253613
+3;a;Rapanea ferruginea ;7.321127382
+2;c;Luehea divaricata;14.32394488
+5;a;Eugenia involucrata;26.10141067
+4;e;Rapanea ferruginea ;7.321127382
+3;e;Eugenia involucrata;9.549296586
+3;d;Rapanea ferruginea ;7.957747155
+1;a;Rapanea ferruginea ;22.28169203
+2;c;Mimosa bimucronata;21.00845249
+4;b;Luehea divaricata;13.05070533
+6;d;Trema micrantha;21.32676237
+5;f;Mimosa bimucronata;28.32957987
+2;e;Eugenia involucrata;15.91549431
+6;a;Rapanea ferruginea ;13.68732511
+1;d;Eugenia involucrata;13.68732511
+3;d;Rapanea ferruginea ;9.230986699
+4;c;Luehea divaricata;22.91831181
+2;a;Luehea divaricata;10.82253613
+2;c;Luehea divaricata;21.64507226
+2;a;Luehea divaricata;7.321127382
+1;e;Anadenanthera peregrina;14.96056465
+4;f;Eugenia involucrata;14.32394488
+3;a;Rapanea ferruginea ;5.729577951
+5;e;Rapanea ferruginea ;15.91549431
+2;c;Mimosa bimucronata;13.68732511
+4;b;Anadenanthera peregrina;13.68732511
+6;f;Luehea divaricata;10.82253613
+1;a;Luehea divaricata;7.321127382
+6;f;Anadenanthera peregrina;6.68450761
+1;b;Eugenia involucrata;14.64225476
+2;c;Anadenanthera peregrina;7.321127382
+3;a;Luehea divaricata;24.82817112
+5;d;Luehea divaricata;14.32394488
+3;f;Eugenia involucrata;7.321127382
+6;a;Rapanea ferruginea ;30.87605896
+1;e;Mimosa bimucronata;31.83098862
+3;d;Luehea divaricata;13.68732511
+4;b;Eugenia involucrata;24.82817112
+2;c;Rapanea ferruginea ;14.32394488
+6;f;Luehea divaricata;6.366197724
+5;c;Anadenanthera peregrina;10.82253613
+1;d;Eugenia involucrata;20.6901426
+4;e;Rapanea ferruginea ;6.366197724
+3;a;Luehea divaricata;10.82253613
+4;b;Rapanea ferruginea ;7.321127382
+2;f;Luehea divaricata;6.68450761
+6;a;Anadenanthera peregrina;14.64225476
+1;e;Anadenanthera peregrina;7.321127382
+6;c;Eugenia involucrata;24.82817112
+5;d;Luehea divaricata;21.32676237
+3;c;Anadenanthera peregrina;7.002817496
+4;a;Eugenia involucrata;10.82253613
+3;e;Anadenanthera peregrina;21.32676237
+2;f;Luehea divaricata;17.50704374
+5;b;Luehea divaricata;10.82253613
+1;a;Eugenia involucrata;20.6901426
+4;e;Rapanea ferruginea ;6.366197724
+6;d;Luehea divaricata;14.32394488
+1;c;Anadenanthera peregrina;6.366197724
+3;d;Eugenia involucrata;7.321127382
+1;a;Luehea divaricata;14.32394488
+2;e;Mimosa bimucronata;24.19155135
+4;d;Mimosa bimucronata;14.00563499
+4;a;Eugenia involucrata;10.18591636
+4;c;Rapanea ferruginea ;28.96619964
+6;b;Luehea divaricata;10.82253613
+1;f;Anadenanthera peregrina;21.64507226
+2;e;Eugenia involucrata;10.18591636
+2;d;Eugenia involucrata;28.96619964
+3;f;Anadenanthera peregrina;22.28169203
+3;d;Luehea divaricata;21.00845249
+1;b;Luehea divaricata;13.05070533
+5;f;Eugenia involucrata;17.50704374
+6;a;Rapanea ferruginea ;10.82253613
+3;e;Luehea divaricata;20.6901426
+1;d;Luehea divaricata;6.366197724
+2;c;Luehea divaricata;14.32394488
+4;f;Eugenia involucrata;24.19155135
+5;a;Rapanea ferruginea ;17.50704374
+1;e;Mimosa bimucronata;14.00563499
+6;b;Anadenanthera peregrina;10.18591636
+5;b;Eugenia involucrata;28.96619964
+3;f;Rapanea ferruginea ;21.32676237
+4;f;Rapanea ferruginea ;14.00563499
+2;e;Mimosa bimucronata;10.18591636
+1;e;Mimosa bimucronata;28.96619964
+5;a;Mimosa bimucronata;29.60281942
+6;f;Luehea divaricata;35.01408748
+4;e;Trema micrantha;9.549296586
+3;d;Mimosa bimucronata;10.82253613
+1;b;Eugenia involucrata;14.00563499
+4;a;Anadenanthera peregrina;10.18591636
